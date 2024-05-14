@@ -1,0 +1,67 @@
+
+
+
+
+.play{
+	background:gray; 
+	color:white; 
+	border-radius: 2px; 
+	font-size: 20px; 
+	 
+	padding: 40px; 
+	margin: 400px; 
+	
+
+}
+
+
+
+
+.play2{
+
+background:blue; 
+color:white; 
+margin-left: 400px; 
+border-radius: 6px;  
+height: 35px; 
+width: 120px; 
+cursor: pointer
+
+
+}
+
+.play3{
+
+
+background:blue; 
+color:white; 
+margin-left: 274px; 
+padding: 10px; 
+border-radius: 6px; 
+text-decoration: none;  
+cursor: pointer;
+
+
+}
+
+
+@media screen and (max-width: 768px){
+
+.play3{
+margin-left: 192px; 
+}
+
+.play2{
+margin-left: 0px; 
+}
+
+
+
+.play{
+padding: 0px; 
+	margin: 0px; 
+	
+	
+} 
+  
+}
